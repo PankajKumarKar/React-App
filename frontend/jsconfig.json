@@ -1,0 +1,8 @@
+//For Best Auto Import
+
+{
+    "compilerOptions": {
+        "moduleResolution": "node"
+    },
+    "include": ["src"]
+}
